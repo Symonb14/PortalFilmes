@@ -1,0 +1,58 @@
+.corpo{
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.card {
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.card-body{
+    color: white;
+}
+
+
+.btn {
+    position: inherit;
+    
+}
+    #inputPesquisa{
+       padding:10px;
+       border: none;
+       outline: none;
+    }
+    #btnPesquisa{
+    padding: 10px;
+       display: inline-block center;
+       border: none;
+    }
+#tela {
+    margin-top: 10px;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+#Inicial {
+    padding:10px;
+       border: none;
+       outline: none;
+       align-items: center;
+       background-color: grey;
+}
+
+    
+
+.header_area img{
+    display: block;
+    width: 50%;
+    align-items: center;
+    height: 200px;
+    transform: translateX(+50%);
+    background-color: rgba(0, 0, 0, 0.9);
+    margin-bottom: 10px;
+}
+
+
+.container-rodapé{
+    background-color: rgb(169, 169, 172);
+    text-align:center;
+    margin-top: auto;
+}
+
